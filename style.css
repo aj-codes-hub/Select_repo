@@ -189,7 +189,7 @@ header{
 }
 
 
-@media (max-width:900px){
+@media (max-width: 400px){
 .welcome{
   font-size: 3rem;
   align-content: center; 
